@@ -4,7 +4,7 @@
   </p>
   <h1 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Teko&weight=600&size=45&duration=4001&pause=1000&color=F8D904&repeat=false&random=true&width=476&height=60&lines=Walter+White)](https://git.io/typing-svg)</p>
+ 
   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TamilanBotsZ/AwesomeFilter)   
    </h1>
